@@ -1,0 +1,6 @@
+{
+  "name": "Colégio Cristão Veredas - Sistema de Gestão Escolar",
+  "description": "Sistema integrado de gestão acadêmica, administrativa, financeira, pedagógica e de recursos humanos do Colégio Cristão Veredas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
